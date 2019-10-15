@@ -7,4 +7,6 @@ Data Quest Data Science path solutions
 
 #### Step 2:
  * Exploring Ebay Car Sales Data
+ * Visualizing Earnings Based On College Majors
+ * Visualizing The Gender Gap In College Degrees
  

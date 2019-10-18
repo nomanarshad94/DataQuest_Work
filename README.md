@@ -1,5 +1,5 @@
 # DataQuest_Work
-Data Quest Data Science path solutions
+Data Quest Data Science path guided projects and their solution
 
 #### Step 1:
  * Profitable App Profiles for the App Store and Google Play Markets
@@ -10,3 +10,5 @@ Data Quest Data Science path solutions
  * Visualizing Earnings Based On College Majors
  * Visualizing The Gender Gap In College Degrees
  * Clean And Analyze Employee Exit Surveys 
+ * Analyzing NYC High School Data
+ * Star Wars Survey

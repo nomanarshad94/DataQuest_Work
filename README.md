@@ -12,3 +12,9 @@ Data Quest Data Science path guided projects and their solution
  * Clean And Analyze Employee Exit Surveys 
  * Analyzing NYC High School Data
  * Star Wars Survey
+
+#### Step 3:
+ * No project exist in this step at the time of writing
+
+#### Step 4:
+ * Analyzing CIA Factbook Data Using SQLite and Python

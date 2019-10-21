@@ -19,3 +19,4 @@ Data Quest Data Science path guided projects and their solution
 #### Step 4:
  * Analyzing CIA Factbook Data Using SQLite and Python
  * Answering Business Questions using SQL
+ * Designing and Creating a Database

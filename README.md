@@ -23,3 +23,4 @@ Data Quest Data Science path guided projects and their solution
 
  #### Step 5
  * Finding the Best Markets to Advertise In
+ * Investigating Fandango Movie Ratings

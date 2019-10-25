@@ -25,3 +25,4 @@ Data Quest Data Science path guided projects and their solution
  * Finding the Best Markets to Advertise In
  * Investigating Fandango Movie Ratings
  * Mobile App for Lottery Addiction
+ * Winning Jeopardy

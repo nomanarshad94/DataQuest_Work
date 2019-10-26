@@ -21,8 +21,10 @@ Data Quest Data Science path guided projects and their solution
  * Answering Business Questions using SQL
  * Designing and Creating a Database
 
- #### Step 5
+ #### Step 5:
  * Finding the Best Markets to Advertise In
  * Investigating Fandango Movie Ratings
  * Mobile App for Lottery Addiction
  * Winning Jeopardy
+ 
+ #### Step 6:

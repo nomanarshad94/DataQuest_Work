@@ -28,3 +28,4 @@ Data Quest Data Science path guided projects and their solution
  * Winning Jeopardy
  
  #### Step 6:
+ * Predicting Car Prices

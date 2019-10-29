@@ -29,3 +29,4 @@ Data Quest Data Science path guided projects and their solution
  
  #### Step 6:
  * Predicting Car Prices
+ * Predicting House Sale Prices

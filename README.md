@@ -31,3 +31,4 @@ Data Quest Data Science path guided projects and their solution
  * Predicting Car Prices
  * Predicting House Sale Prices
  * Predicting the stock market
+ * Predicting Bike Rentals

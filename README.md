@@ -32,3 +32,6 @@ Data Quest Data Science path guided projects and their solution
  * Predicting House Sale Prices
  * Predicting the stock market
  * Predicting Bike Rentals
+
+ #### Step 7:
+ * Building A Handwritten Digits Classifier

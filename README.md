@@ -35,3 +35,4 @@ Data Quest Data Science path guided projects and their solution
 
  #### Step 7:
  * Building A Handwritten Digits Classifier
+ * Creating a Kaggle Workflow

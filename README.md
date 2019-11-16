@@ -26,6 +26,7 @@ Data Quest Data Science path guided projects and their solution
  * Investigating Fandango Movie Ratings
  * Mobile App for Lottery Addiction
  * Winning Jeopardy
+ * Building a Spam Filter with Naive Bayes
  
  #### Step 6:
  * Predicting Car Prices
